@@ -63,9 +63,6 @@ Goal suggestion:
   <img width="310" height="590" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605">
 </p>
 
-
-
-
 The analysis used synthetic data representing customers, sales, product categories, and transaction dates from January 2018 to December 2022. Key data points include:
 
 - ✅ **Product Data**: Reference table that includes product ID, product name, and sub-category.
@@ -117,7 +114,7 @@ Note:
    - ❌ Just showing the top 10 products by sales
 
 8. Tip: Try to tie your specific and detailed insights into a story so it can be more cohesive.
----
+
 ## Recommendations
 
 Note:
@@ -129,7 +126,6 @@ Note:
 2. Tip: We can put a simple recommendation first, then put the detailed recommendations after it.
 3. Our job is to communicate exactly what we discovered and what someone should do about it. So be specific!
   
----
 ## Technical Details
 
 Note:
@@ -137,7 +133,6 @@ Note:
 1. Contain tools that we used and what they are for.
 2. Put the link to your work. Example: You can explore the dashboard [here](link)
 
----
 ## Caveats and Assumptions
 
 Note:
