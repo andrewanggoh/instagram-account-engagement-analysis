@@ -1,4 +1,5 @@
 # Healthy Snack Brand: Instagram Engagement Analysis
+Compiled by: Andrew Oksner Anggoh | Tools: R and Tableau
 
 ### Table of Content
 
