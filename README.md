@@ -100,6 +100,10 @@ Note:
 
 ### Post with Highest Engagement
 
+<p align="center">
+  <img width="836" height="408" src="https://github.com/user-attachments/assets/efa2b051-1e78-471b-90fc-10bc28d903e3">
+</p>
+
 Note:
 
 1. Take a perspective interested in numbers, which provides more detail.
