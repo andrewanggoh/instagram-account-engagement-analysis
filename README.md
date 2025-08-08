@@ -2,13 +2,13 @@
 
 ### Table of Content
 
-- [Project Background](#background)
-- Objectives
+- [Project Background](#ProjectBackground)
+- [Objectives](#Objectives)
 - Data Structure Overview
 - Executive Summary
 
 
-## [Project Background](#background)
+## Project Background
 
 [Description]
 
