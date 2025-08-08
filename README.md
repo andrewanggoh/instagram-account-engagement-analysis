@@ -146,5 +146,7 @@ Note:
 
 ## Contacts
 
+Thank you for reading through this project. Should you have any feedback, suggestions, or wish to collaborate further, feel free to reach out via email or connect with me on LinkedIn.
+
 - LinkedIn: [@andrewoanggoh](https://www.linkedin.com/in/andrewoanggoh/)
 - Gmail: andrew.anggoh@gmail.com
