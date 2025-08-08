@@ -6,6 +6,12 @@
 - [Objectives](#objectives)
 - [Data Structure Overview](#data-structure-overview)
 - [Executive Summary](#executive-summary)
+- [Insight Deep-Dive](#insight-deep-dive)
+   - [Posts with Highest Engagement](#post-with-highest-engagement)
+- [Recommendations](#recommendations)
+- [Technical Details](#technical-details)
+- [Caveats and Assumptions](#caveats-and-assumptions)
+- [Contacts](#contacts)
 
 
 ## Project Background
@@ -24,7 +30,7 @@ Note:
 3. Don't overclaim! Show what you're actually going to be looking into. Overclaiming can be seen by too many adjective words (adjective: "comprehensive insights", "meticulous analysis"). Let the analysis do its own talking.
 
    - ✅ The ultimate goal was to harness these insights to drive strategic decisions about ... for the ... team.
----
+
 ## Objectives
 
 The main objectives of this analysis are to:
@@ -47,7 +53,7 @@ Goal suggestion:
 3. Return Analysis: pattern and causes of product returns to identify areas for improvement.
 4. Growth Insights: uncover trends and opportunities for business growth.
 
----
+
 ## Data Structure Overview
 
 [Description (Example)] The analysis used synthetic data representing customers, sales, product categories, and transaction dates from January 2018 to December 2022. Key data points include:
@@ -68,7 +74,7 @@ Note:
      - What is the meaning of "*enhanced analytical flexibility*"? It doesn't tell anything about your skill.
    - ✅ Just tell what you are doing for each technical tool, or put it in the technical section at the bottom.
 
----
+
 ## Executive Summary
 
 [Description]
@@ -82,8 +88,10 @@ Note:
 3. Use the actual value.
 4. Some people didn't care about all four years squished.
 
----
-## Insight Deep Dive
+
+## Insight Deep-Dive
+
+### Post with Highest Engagement
 
 Note:
 
@@ -126,7 +134,7 @@ Note:
 
 1. Contain a note about the data cleaning process that you did including any assumptions you had to make about the data.
 
+## Contacts
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fc17ec1-0004-41ba-8e36-147d3bf67f07" />
-<img width="1568" height="693" alt="image" src="https://github.com/user-attachments/assets/4d07db34-891c-428a-bfd1-ba6675817034" />
-
+- LinkedIn: [@andrewoanggoh](https://www.linkedin.com/in/andrewoanggoh/)
+- Gmail: andrew.anggoh@gmail.com
