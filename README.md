@@ -59,10 +59,9 @@ Goal suggestion:
 
 [Description (Example)] 
 
-
-<img width="401" height="760" alt="instagrampost_db_diagram" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605" />
-
-
+<p align="center">
+  <img width="310" height="590" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605">
+</p>
 
 
 
