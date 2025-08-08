@@ -101,7 +101,7 @@ Note:
 ### Post with Highest Engagement
 
 <p align="center">
-  <img width="836" height="408" src="https://github.com/user-attachments/assets/efa2b051-1e78-471b-90fc-10bc28d903e3">
+  <img width="1105" height="222" src="https://github.com/user-attachments/assets/71c3ca3a-5358-4d40-af33-fdbf5dd56e9f">
 </p>
 
 Note:
