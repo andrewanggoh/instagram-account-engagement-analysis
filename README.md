@@ -57,7 +57,17 @@ Goal suggestion:
 
 ## Data Structure Overview
 
-[Description (Example)] The analysis used synthetic data representing customers, sales, product categories, and transaction dates from January 2018 to December 2022. Key data points include:
+[Description (Example)] 
+
+
+<img width="401" height="760" alt="instagrampost_db_diagram" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605" />
+
+
+
+
+
+
+The analysis used synthetic data representing customers, sales, product categories, and transaction dates from January 2018 to December 2022. Key data points include:
 
 - ✅ **Product Data**: Reference table that includes product ID, product name, and sub-category.
 - ❌ **Product Data**: Specifications and revenue contributions by category.
