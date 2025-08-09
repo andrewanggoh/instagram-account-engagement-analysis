@@ -17,7 +17,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 
 ## Project Background
 
-[Description]
+AO Snack, a healthy snack brand, uses Instagram to build brand awareness and engage with its audience. I'm taking a role as a data analyst to extract insights and deliver recommendations to improve performance across social media and marketing teams.
 
 Note:
 
