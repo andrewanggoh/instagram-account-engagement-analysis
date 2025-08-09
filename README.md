@@ -19,19 +19,6 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 
 AO Snack, a healthy snack brand, uses Instagram to build brand awareness and engage with its audience. I'm taking a role as a data analyst to extract insights and provide recommendations to the social media and marketing teams to drive higher engagement on the Instagram account.
 
-Note:
-
-1. **Be detail!** : Mention your role, the KPIs we're investigating, and to whom the recommendations will be used
-2. Take a perspective of a Data Analyst for the company delivering insights to stakeholders.
-   
-   - ✅ The recommendations will be used by the marketing and product teams to better allocate marketing and product resources.
-   - ✅ Insights delivered to operations and product managers.
-   - ❌ Provides recommendations to improve business strategies and drive future growth -> (*too high level and generic*) 
-
-3. Don't overclaim! Show what you're actually going to be looking into. Overclaiming can be seen by too many adjective words (adjective: "comprehensive insights", "meticulous analysis"). Let the analysis do its own talking.
-
-   - ✅ The ultimate goal was to harness these insights to drive strategic decisions about ... for the ... team.
-
 ## Objectives
 
 The main objectives of this analysis are to:
