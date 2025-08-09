@@ -91,6 +91,11 @@ Note:
   <img width="1105" height="222" src="https://github.com/user-attachments/assets/71c3ca3a-5358-4d40-af33-fdbf5dd56e9f">
 </p>
 
+**Insights**:
+
+- 9 out of 10 top-performing posts are videos, with only 1 being a static photo.
+- All 10 high-engagement posts involved collaborations – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
+
 Note:
 
 1. Take a perspective interested in numbers, which provides more detail.
