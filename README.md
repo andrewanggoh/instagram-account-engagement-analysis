@@ -48,7 +48,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - All **10 high-engagement posts involved collaborations** – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
 
 <p align="center">
-  <img width="770" height="330" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a">
+  <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a">
 </p>
 
 ## Recommendations
