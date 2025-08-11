@@ -30,7 +30,7 @@ The main objective of this analysis is:
 The analysis is based on public Instagram content data from the AO Snack account, representing posts from December 2021 to March 2025 with details including post ID, timestamp, post owner, post type, and other attributes as shown in the image below.
 
 <p align="center">
-  <img width="928" height="346" src="https://github.com/user-attachments/assets/f4ae1896-88b8-4960-a7c4-be0409427202">
+  <img width="346" height="931" src="https://github.com/user-attachments/assets/944fc905-0eeb-4a9a-b6ce-26ad6f446396">
 </p>
 
 ***Disclaimer:*** *All account names and usernames displayed have been replaced with pseudonyms created using ChatGPT to protect the privacy of the original account holders. This anonymization prevents identity tracing, misuse of data, or harm to third parties. There is no association between these aliases and real Instagram accounts.*
@@ -48,7 +48,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - All **10 high-engagement posts involved collaborations** – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
 
 <p align="center">
-  <img width="700" height="130" src="https://github.com/user-attachments/assets/71c3ca3a-5358-4d40-af33-fdbf5dd56e9f">
+  <img width="750" height="300" src="https://github.com/user-attachments/assets/f4ae1896-88b8-4960-a7c4-be0409427202">
 </p>
 
 ## Recommendations
