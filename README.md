@@ -27,7 +27,7 @@ The main objective of this analysis is:
 
 ## Dataset Overview
 
-The analysis is based on data derived from public Instagram content of an account from December 2021 to March 2025.
+The analysis is based on public Instagram content data from the AO Snack account, representing posts from December 2021 to March 2025 with details including post ID, timestamp, post owner, post type, and other attributes as shown in the image below.
 
 <p align="center">
   <img width="310" height="590" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605">
