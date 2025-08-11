@@ -15,6 +15,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Impact of Video Duration on Completion Rate](#impact-of-video-duration-on-completion-rate)
    - [Impact of Influencer Collaborations on Engagement](#impact-of-influencer-collaborations-on-engagement)
 - [Recommendations](#recommendations)
+- [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Technical Details](#technical-details)
 - [Caveats and Assumptions](#caveats-and-assumptions)
 - [Contacts](#contacts)
@@ -95,19 +96,23 @@ Note:
    - ❌ Expand Technology offerings: Leverage strong demand for technology products to maintain market leadership.
 2. Tip: We can put a simple recommendation first, then put the detailed recommendations after it.
 3. Our job is to communicate exactly what we discovered and what someone should do about it. So be specific!
-  
-## Technical Details
 
-The technical analysis utilized:
+## Clarifying and Key Questions for Further Analysis
 
-- **R** for data cleaning, preparation, and exploratory data analysis. Documentation is available [here](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis).
-- **Tableau** for data visualization and an interactive dashboard, which is accessible [here]().
+- Is there
 
 ## Caveats and Assumptions
 
 Note:
 
 1. Contain a note about the data cleaning process that you did including any assumptions you had to make about the data.
+
+## Technical Details
+
+The technical analysis utilized:
+
+- **R** for data cleaning, preparation, and exploratory data analysis. Documentation is available [here](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis).
+- **Tableau** for data visualization and an interactive dashboard, which is accessible [here]().
 
 ## Contacts
 
