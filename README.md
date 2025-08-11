@@ -16,8 +16,8 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Impact of Influencer Collaborations on Engagement](#impact-of-influencer-collaborations-on-engagement)
 - [Recommendations](#recommendations)
 - [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
-- [Technical Details](#technical-details)
 - [Caveats and Assumptions](#caveats-and-assumptions)
+- [Technical Details](#technical-details)
 - [Contacts](#contacts)
 
 ## Project Background
