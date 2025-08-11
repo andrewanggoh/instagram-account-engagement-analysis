@@ -4,8 +4,8 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 ### Table of Content
 
 - [Project Background](#project-background)
-- [Objectives](#objectives)
-- [Data Structure Overview](#data-structure-overview)
+- [Objective](#objective)
+- [Dataset Overview](#dataset-overview)
 - [Executive Summary](#executive-summary)
 - [Insight Deep-Dive](#insight-deep-dive)
    - [Posts with Highest Engagement](#post-with-highest-engagement)
@@ -17,57 +17,23 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 
 ## Project Background
 
-AO Snack, a healthy snack brand, uses Instagram to build brand awareness and engage with its audience. I'm taking a role as a data analyst to extract insights and provide recommendations to the social media and marketing teams to drive higher engagement on the Instagram account.
+AO Snack (*pseudonym*), a healthy snack brand, uses Instagram to build brand awareness and engage with its audience. I'm taking a role as a data analyst to extract insights and provide recommendations to the social media and marketing teams to drive higher engagement on the Instagram account.
 
-## Objectives
+## Objective
 
-The main objectives of this analysis are to:
-  - ✅ To understand ... and ...
-  - ❌ Evaluate Rainbow Retail's sales performance from 2018 to 2022
-  - ❌ Identify key trends and patterns in sales data -> (*too generic! explain the why and specify what metrics of sales*)
-  - ❌ Provide actionable recommendations for business optimization and growth -> (*recommendation to who? and for what purpose? specify that!*)
+The main objective of this analysis is:
 
-Note:
+- **Content Engagement Analysis**: To identify and understand post characteristics, including topics, post types, and influencer involvement, that drive high audience engagement.
 
-1. More about why, rather than showing what you will do.
-2. Specify the metrics, the recommendation to whom, and what purpose.
-3. In other words, don't use terminology that everyone in data analytics can say. It doesn't make you stand out.
-4. Better to have depth rather than breadth. Insights is detailed. Don't take too much. For example, just take 2 of goal suggestion below and not all of them.
+## Dataset Overview
 
-Goal suggestion:
-
-1. Customer Segmentation and Profiling: customer characteristics
-2. Product Performance Analysis: product performances in terms of sales, returns, etc.
-3. Return Analysis: pattern and causes of product returns to identify areas for improvement.
-4. Growth Insights: uncover trends and opportunities for business growth.
-
-
-## Data Structure Overview
-
-[Description (Example)] 
+The analysis is based on data derived from public Instagram content of an account from December 2021 to March 2025.
 
 <p align="center">
   <img width="310" height="590" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605">
 </p>
 
-The analysis used synthetic data representing customers, sales, product categories, and transaction dates from January 2018 to December 2022. Key data points include:
-
-- ✅ **Product Data**: Reference table that includes product ID, product name, and sub-category.
-- ❌ **Product Data**: Specifications and revenue contributions by category.
-
-- ✅ **Sales Data**: Each unique record represents a sales transaction with information about the sales dates, sales quantity, and product.
-- ❌ **Sales Data**: Monthly sales and revenues trends.
-
-Note:
-
-1. Put a snapshot of the data that we're working with! You can use [dbdiagram.io](https://dbdiagram.io/home).
-2. Take a perspective as a data analyst who is telling another data analyst.
-3. **Be specific!** : specially in phrases.
-
-   - ❌ Data cleaning and transformation were conducted using ... for enhanced analytical flexibility.
-     - What is the meaning of "*enhanced analytical flexibility*"? It doesn't tell anything about your skill.
-   - ✅ Just tell what you are doing for each technical tool, or put it in the technical section at the bottom.
-
+***Disclaimer***: *All account names and usernames displayed have been replaced with pseudonyms created using ChatGPT to protect the privacy of the original account holders. This anonymization prevents identity tracing, misuse of data, or harm to third parties. There is no association between these aliases and real Instagram accounts.*
 
 ## Executive Summary
 
