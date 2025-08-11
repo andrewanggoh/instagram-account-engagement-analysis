@@ -68,8 +68,8 @@ Note:
 
 The technical analysis utilized:
 
-- **R** for data cleaning, preparation, and exploratory data analysis. Documentation is available here.
-- **Tableau** for data visualization and an interactive dashboard, which is accessible here.
+- **R** for data cleaning, preparation, and exploratory data analysis. Documentation is available [here](https://rpubs.com/andrewanggoh/InstagramAccountAnalysis).
+- **Tableau** for data visualization and an interactive dashboard, which is accessible [here]().
 
 ## Caveats and Assumptions
 
