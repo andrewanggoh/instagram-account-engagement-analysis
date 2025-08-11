@@ -33,7 +33,7 @@ The analysis is based on public Instagram content data from the AO Snack account
   <img width="310" height="590" src="https://github.com/user-attachments/assets/2ec7e683-0065-4d88-b938-4c9bc61f3605">
 </p>
 
-***Disclaimer***: *All account names and usernames displayed have been replaced with pseudonyms created using ChatGPT to protect the privacy of the original account holders. This anonymization prevents identity tracing, misuse of data, or harm to third parties. There is no association between these aliases and real Instagram accounts.*
+***Disclaimer:*** *All account names and usernames displayed have been replaced with pseudonyms created using ChatGPT to protect the privacy of the original account holders. This anonymization prevents identity tracing, misuse of data, or harm to third parties. There is no association between these aliases and real Instagram accounts.*
 
 ## Executive Summary
 
