@@ -8,7 +8,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 - [Dataset Overview](#dataset-overview)
 - [Executive Summary](#executive-summary)
 - [Insight Deep-Dive](#insight-deep-dive)
-   - [Posts with Highest Engagement](#post-with-highest-engagement)
+   - [Top Posts by Engagement](#top-posts-by-engagement)
 - [Recommendations](#recommendations)
 - [Technical Details](#technical-details)
 - [Caveats and Assumptions](#caveats-and-assumptions)
@@ -42,16 +42,14 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ## Insight Deep-Dive
 
-### Post with Highest Engagement
+### Top Posts by Engagement
+
+- **9 out of 10** top-performing posts are **videos**, with only 1 being a static photo.
+- All **10 high-engagement posts involved collaborations** – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
 
 <p align="center">
   <img width="1105" height="222" src="https://github.com/user-attachments/assets/71c3ca3a-5358-4d40-af33-fdbf5dd56e9f">
 </p>
-
-**Insights**:
-
-- 9 out of 10 top-performing posts are videos, with only 1 being a static photo.
-- All 10 high-engagement posts involved collaborations – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
 
 ## Recommendations
 
