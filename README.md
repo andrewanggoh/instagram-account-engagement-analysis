@@ -7,10 +7,10 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 - [Objective](#objective)
 - [Dataset Overview](#dataset-overview)
 - [Executive Summary](#executive-summary)
-- [Insight Deep-Dive](#insight-deep-dive)
+- [Insights Deep-Dive](#insights-deep-dive)
    - [Top Posts by Engagement](#top-posts-by-engagement)
    - [Engagement Trends and Growth Rates](#engagement-trends-and-growth-rates)
-   - [Engagement by Post Types](#engagement-by-post-types)
+   - [Engagements by Post Types](#engagements-by-post-types)
    - [Characteristics of High-Engagement Videos](#characteristics-of-high-engagement-videos)
    - [Impact of Video Duration on Completion Rate](#impact-of-video-duration-on-completion-rate)
    - [Impact of Influencer Collaborations on Engagement](#impact-of-influencer-collaborations-on-engagement)
@@ -45,7 +45,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Videos tend to attract higher engagement than photos.
 - Duration 15 > seconds engages more audience
 
-## Insight Deep-Dive
+## Insights Deep-Dive
 
 ### Top Posts by Engagement
 
@@ -54,14 +54,14 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Guntur’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
 
 <p align="center">
-  <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a">
+  <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a" alt>
 </p>
 
 ### Engagement Trends and Growth Rates
 
 - From December 2021 to March 2025, there are huge spikes in June-July 2023, February 2024, May-June 2024, December 2024, and its increasing now in March 2025, with monthly engagement ranging from ~1.2K to ~368.6K. After those spikes, the engagement mostly has a big dip
 
-### Engagements by Post Type
+### Engagements by Post Types
 
 - There are several viral posts (as indicated by the outliers) with significantly higher engagement in clips compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that clips have a higher potential for viral reach.
 - Clips tend to generate higher engagement than photos, with a median of 361 compared to 129. Half of all clips achieve engagement above 361, while half of the photos fall below 129.
