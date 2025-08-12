@@ -51,7 +51,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 - 9 out of 10 top-performing posts are videos, with only 1 being a static photo.
 - All 10 high-engagement posts involved collaborations – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
-- Guntur’s appearance in five of the top posts suggests he is a key content creator** contributing significantly to engagement.
+- Guntur’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
 
 <p align="center">
   <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a">
