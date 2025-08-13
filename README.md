@@ -59,7 +59,11 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ### Engagement Trends and Growth Rates
 
-- From December 2021 to March 2025, there are huge spikes in June-July 2023, February 2024, May-June 2024, December 2024, and its increasing now in March 2025, with monthly engagement ranging from ~1.2K to ~368.6K. After those spikes, the engagement mostly has a big dip
+- From December 2021 to March 2025, there are huge spikes in June-July 2023, February 2024, May-June 2024, December 2024, and its increasing now in March 2025, with monthly engagement ranging from ~1.2K to ~368.6K. After those spikes, the engagement mostly has a big dip.
+
+<p align="center">
+  <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
+</p>
 
 ### Engagements by Post Types
 
