@@ -71,7 +71,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - There are several viral posts with significantly higher engagement in clips compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that clips have a higher potential for viral reach.
 - Clips tend to generate higher engagement than photos, with a median of 361 compared to 129. Half of all clips achieve engagement above 361, while half of the photos fall below 129.
 - Based on Q1 to Q3, clips (152-1022) show a broader spread of engagement compared to photos (67-247), meaning the middle 50% of clips have much higher engagement. This suggests clips are more likely to drive higher engagement, though variability is also greater.
-- Statistical analysis confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
+- Statistical analysis also confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/af2a5550-c1b8-4fb4-9025-e767c025dac3">
