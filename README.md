@@ -59,7 +59,10 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ### Engagement Trends and Growth Rates
 
-- From December 2021 to March 2025, there are huge spikes in June-July 2023, February 2024, May-June 2024, December 2024, and its increasing now in March 2025, with monthly engagement ranging from ~1.2K to ~368.6K. After those spikes, the engagement mostly has a big dip.
+- Between Dec 2021 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
+- Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.
+- The highest peak in June-July 2023 exceeded 350K, likely driven by viral content or major campaigns.
+- Engagement in 2024 saw multiple peaks (200K–260K), suggesting event-driven or seasonal trends rather than sustained growth.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
@@ -71,30 +74,30 @@ The analysis is based on public Instagram content data from the AO Snack account
 - There are several viral posts with significantly higher engagement in clips compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that clips have a higher potential for viral reach.
 - Clips tend to generate higher engagement than photos, with a median of 361 compared to 129. Half of all clips achieve engagement above 361, while half of the photos fall below 129.
 - Based on Q1 to Q3, clips (152-1022) show a broader spread of engagement compared to photos (67-247), meaning the middle 50% of clips have much higher engagement. This suggests clips are more likely to drive higher engagement, though variability is also greater.
-- Statistical analysis also confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
+- Statistical analysis confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/af2a5550-c1b8-4fb4-9025-e767c025dac3">
 </p>
 
-### Characteristics of High-Engagement Videos
+### Engagements and Completion Rates by Video Duration
 
 - Longer videos tend to generate higher engagement, with the highest median seen in videos over 60 seconds (479), followed by those 45–60 seconds long (417). In contrast, very short videos (0–15 seconds) show the lowest median engagement, indicating that overly brief content may offer less value or appeal to the audience.
-- The heatmap of median engagement across posting times suggests no strong pattern. Posting time does not appear to be a key driver of engagement.
+- The highest average completion rate is for videos over 60 seconds (44.66%), while the other durations fall within 37.43%–38.96%, indicating that videos of 60 seconds or longer tend to deliver a 5–7% higher retention rate.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/2d29304c-a61f-4f35-995c-f508046f37d9">
 </p>
 
-### Impact of Video Duration on Completion Rate
+### Engagements by Posting Time
 
-- The highest average of completion rate is video with duration > 60 seconds (44.66%), followed by 30-45 seconds (38.96%), 45-60 seconds (38.72%), 0-15 seconds (37.66%), and 15-30 seconds (37.43%).
+- The heatmap of median engagement across posting times suggests no consistent pattern. While certain time slots (e.g., 4 AM Sunday and 3 AM Tuesday) show higher median engagement, posting time does not appear to be a dominant driver of engagement.
 
-### Impact of Influencer Collaborations on Engagement
+### Engagements by Influencer Collaborations
 
-- Most of the time, the total engagement trend is influenced a lot by post with Influencers. For example, the spike through June - August 2023 is happening because post with an influencer.
-- Median engagement count of post with inlfuencer approximately 2x higher than post without influencer.
-- elziwai, celloszxz, and byoncombat are top 3 influencer that give highest engagement sum up.
+- Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Aug 2023 was largely the result of content collaborations with influencers.
+- Posts featuring influencers have a much higher median engagement count (518.5) compared to posts without influencers (162.5), representing around a 3x increase.
+- elziwai, celloszxz, byoncombat, and randpunk are the top influencers contributing the highest total engagement, with each generating over 100K.
 
 ## Recommendations
 
