@@ -80,6 +80,10 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Longer videos tend to generate higher engagement, with the highest median seen in videos over 60 seconds (479), followed by those 45–60 seconds long (417). In contrast, very short videos (0–15 seconds) show the lowest median engagement, indicating that overly brief content may offer less value or appeal to the audience.
 - The heatmap of median engagement across posting times suggests no strong pattern. Posting time does not appear to be a key driver of engagement.
 
+<p align="center">
+  <img width="913" height="687" src="https://github.com/user-attachments/assets/2d29304c-a61f-4f35-995c-f508046f37d9">
+</p>
+
 ### Impact of Video Duration on Completion Rate
 
 - The highest average of completion rate is video with duration > 60 seconds (44.66%), followed by 30-45 seconds (38.96%), 45-60 seconds (38.72%), 0-15 seconds (37.66%), and 15-30 seconds (37.43%).
