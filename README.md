@@ -111,9 +111,9 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ### Maintaining & Expanding Collaborations
 
-- **Leverage Proven Influencers**: Continue collaborating with high-performing influencers such as Elziwai, Byon, and Guntur, especially for campaigns during high-traffic periods.
+- **Leverage Proven Influencers**: Consider allocating budget to continue collaborating with high-performing influencers such as Elziwai, Byon, and Guntur, especially for campaigns during high-traffic periods.
 - **Sustain Engagement via Long-Term Partnerships**: Build ongoing collaboration programs instead of one-off campaigns to prevent post-peak engagement drops.
-- **Co-Branding Opportunities**: Consider to partner with complementary brands (e.g., sports events, hampers) that align with the brand image to expand audience reach.
+- **Co-Branding Opportunities**: Consider partnering with complementary brands (e.g., sports events, hampers) that align with the brand image to expand audience reach.
 
 ### Sustaining Engagement Momentum
 
