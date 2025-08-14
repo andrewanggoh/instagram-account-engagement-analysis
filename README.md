@@ -65,7 +65,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
 
 <p align="center">
-  <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
+  <img width="801" height="518" src="https://github.com/user-attachments/assets/8d6fe946-c4db-4d64-8c7a-7535c2fcd991">
 </p>
 
 ### Engagements by Post Types
