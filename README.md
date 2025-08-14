@@ -13,7 +13,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Engagements by Post Types](#engagements-by-post-types)
    - [Engagements and Completion Rates by Video Durations](#engagements-and-completion-rates-by-video-durations)
    - [Engagements by Posting Times](#engagements-by-posting-times)
-   - [Engagements by Collaborations](#engagements-by-collaborations)
+   - [Impact of Collaborations on Engagements](#impact-of-collaborations-on-engagements)
 - [Recommendations](#recommendations)
 - [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Caveats and Assumptions](#caveats-and-assumptions)
@@ -54,7 +54,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Wilson Nate’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
 
 <p align="center">
-  <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a" alt>
+  <img width="830" height="350" src="https://github.com/user-attachments/assets/cb98b6b3-f73f-4c37-8082-7e165bc8ec02">
 </p>
 
 ### Engagement Trends and Growth Rates
@@ -65,7 +65,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
 
 <p align="center">
-  <img width="801" height="518" src="https://github.com/user-attachments/assets/8d6fe946-c4db-4d64-8c7a-7535c2fcd991">
+  <img width="801" height="700" src="https://github.com/user-attachments/assets/781e0775-aec6-4d45-96d8-50467009d79c">
 </p>
 
 ### Engagements by Post Types
