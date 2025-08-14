@@ -97,7 +97,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 - Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Jul 2023 was largely the result of content collaborations with influencers.
 - During the peak in Jun-Jul 2023, Elziwai is involved in ~575K out of the total ~607K engagement.
-- Most engagement from June to December related to Byon, contributing ~392K out of the total ~1,108K engagement.
+- Most engagement from Jun-Dec 2024 related to Byon, contributing ~392K out of the total ~1,108K engagement.
 - Posts featuring influencers have a much higher median engagement count (518.5) compared to posts without influencers (162.5), representing around a 3x increase.
 - elziwai, celloszxz, byoncombat, randpunk, and tya magdalena are the top influencers contributing the highest total engagement, with each generating over 77K.
 
