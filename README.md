@@ -65,7 +65,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 <img width="445" height="170" alt="image" src="https://github.com/user-attachments/assets/94f798c3-949a-4487-b60b-f95d64fc79e4" />
 
 <p align="center">
-  <img width="730" height="550" src="https://github.com/user-attachments/assets/c5825df4-109e-4596-abb5-a3a53de0ca86">
+  <img width="745" height="453" src="https://github.com/user-attachments/assets/ccba034e-f5b0-4079-b3b1-4b1db9951355">
 </p>
 
 ### Engagements by Post Types
