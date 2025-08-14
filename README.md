@@ -8,7 +8,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
 - [Dataset Overview](#dataset-overview)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-   - [Top Posts by Engagement](#top-posts-by-engagement)
+   - [Top Posts by Engagements](#top-posts-by-engagements)
    - [Engagement Trends and Growth Rates](#engagement-trends-and-growth-rates)
    - [Engagements by Post Types](#engagements-by-post-types)
    - [Engagements and Completion Rates by Video Durations](#engagements-and-completion-rates-by-video-durations)
