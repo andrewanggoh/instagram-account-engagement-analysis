@@ -88,12 +88,16 @@ The analysis is based on public Instagram content data from the AO Snack account
 - The highest average completion rate is for videos over 60 seconds (44.66%), while the other durations fall within 37.43%–38.96%, indicating that videos of 60 seconds or longer tend to deliver a 5–7% higher retention rate.
 
 <p align="center">
-  <img width="913" height="687" src="https://github.com/user-attachments/assets/2d29304c-a61f-4f35-995c-f508046f37d9">
+  <img width="631" height="395" src="https://github.com/user-attachments/assets/e7ca8eb8-924d-4b21-846f-8fc9c3e58d8e">
 </p>
 
 ### Engagements by Posting Times
 
 - The heatmap of median engagement across posting times suggests no consistent pattern. While certain time slots (e.g., 4 AM Sunday and 3 AM Tuesday) show higher median engagement, posting time does not appear to be a dominant driver of engagement.
+
+<p align="center">
+  <img width="601" height="384" src="https://github.com/user-attachments/assets/24088f4d-ed83-413b-9324-58bed5b7c2ca">
+</p>
 
 ### Engagements by Collaborations
 
