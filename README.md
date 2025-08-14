@@ -103,14 +103,22 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ## Recommendations
 
-Note:
+### Optimizing Content Format
 
-1. Every recommendation should be tied to an insight that we had. Link what you found to what you recommend.
+- **Prioritize Video Content**: Focus on producing video posts, as they consistently generate higher engagement than photos.
+- **Optimize Video Length**: Create videos longer than 15 seconds, since these tends to receive 2–3× more engagement than short clips. Maintain high content quality and storytelling value since length alone does not guarantee performance.
+- **Refine Drivers Beyond Timing**: Since posting time is not a strong engagement factor, focus future optimizations on content type, duration, audience targeting, and creative execution.
 
-   - ✅ Given the upward trend in electric letter openers and ... in the technology category. Consider reallocating the marketing budget for the next two years to focus on these products.
-   - ❌ Expand Technology offerings: Leverage strong demand for technology products to maintain market leadership.
-2. Tip: We can put a simple recommendation first, then put the detailed recommendations after it.
-3. Our job is to communicate exactly what we discovered and what someone should do about it. So be specific!
+### Maintaining & Expanding Collaborations
+
+- **Leverage Proven Influencers**: Continue collaborating with high-performing influencers such as Elziwai, Byon, and Guntur, especially for campaigns during high-traffic periods.
+- **Sustain Engagement via Long-Term Partnerships**: Build ongoing collaboration programs instead of one-off campaigns to prevent post-peak engagement drops.
+- **Co-Branding Opportunities**: Consider to partner with complementary brands (e.g., sports events, hampers) that align with the brand image to expand audience reach.
+
+### Sustaining Engagement Momentum
+
+- **Plan for Post-Peak Content**: Design and post follow-up content series after major engagement spikes (e.g., behind-the-scenes, user-generated content, or recap videos) to sustain audience momentum and reduce steep declines.
+- **Optimize Audience Retargeting**: Retarget viewers and engagers from peak periods with tailored content to extend their activity cycle.
 
 ## Clarifying and Key Questions for Further Analysis
 
