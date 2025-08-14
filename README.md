@@ -60,9 +60,9 @@ The analysis is based on public Instagram content data from the AO Snack account
 ### Engagement Trends and Growth Rates
 
 - Between Dec 2021 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
-- Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.
-- The highest peak in June-July 2023 exceeded 350K, likely driven by viral content or major campaigns.
-- Engagement in 2024 saw multiple peaks (200K–260K), suggesting event-driven or seasonal trends rather than sustained growth.
+- Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.-
+- The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns, with Elziwai Elziwai involved in ~575K out of the total ~607K engagement.
+- Engagement in 2024 saw multiple peaks (200K–260K), suggesting event-driven or seasonal trends rather than sustained growth, with most activity from June to December related to Byon, contributing 392K out of the total ~1,108K engagement.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
