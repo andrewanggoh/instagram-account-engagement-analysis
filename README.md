@@ -32,7 +32,7 @@ The main objective of this analysis is:
 
 ## Dataset Overview
 
-The analysis is based on public Instagram content data from the AO Snack account, representing posts from December 2021 to March 2025 with details including post ID, timestamp, post owner, post type, and other attributes as shown in the image below.
+The analysis is based on public Instagram content data from the AO Snack account, representing posts from January 2022 to March 2025 with details including post ID, timestamp, post owner, post type, and other attributes as shown in the image below.
 
 <p align="center">
   <img width="346" height="931" src="https://github.com/user-attachments/assets/944fc905-0eeb-4a9a-b6ce-26ad6f446396">
@@ -51,7 +51,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 - 9 out of 10 top-performing posts are videos, with only 1 being a static photo.
 - All 10 high-engagement posts involved collaborations – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
-- Guntur’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
+- Wilson Nate’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
 
 <p align="center">
   <img width="830" height="350" src="https://github.com/user-attachments/assets/0b3d04c2-fb3e-4e96-89c4-abbe8bab0a7a" alt>
@@ -62,7 +62,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Between Dec 2021 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
 - Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.
 - The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns.
-- Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section.
+- Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
