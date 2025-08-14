@@ -11,9 +11,9 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Top Posts by Engagement](#top-posts-by-engagement)
    - [Engagement Trends and Growth Rates](#engagement-trends-and-growth-rates)
    - [Engagements by Post Types](#engagements-by-post-types)
-   - [Characteristics of High-Engagement Videos](#characteristics-of-high-engagement-videos)
-   - [Impact of Video Duration on Completion Rate](#impact-of-video-duration-on-completion-rate)
-   - [Impact of Influencer Collaborations on Engagement](#impact-of-influencer-collaborations-on-engagement)
+   - [Engagements and Completion Rates by Video Durations](#engagements-and-completion-rates-by-video-durations)
+   - [Engagements by Posting Times](#engagements-by-posting-times)
+   - [Engagements by Influencer Collaborations](#engagements-by-influencer-collaborations)
 - [Recommendations](#recommendations)
 - [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Caveats and Assumptions](#caveats-and-assumptions)
@@ -80,16 +80,16 @@ The analysis is based on public Instagram content data from the AO Snack account
   <img width="913" height="687" src="https://github.com/user-attachments/assets/af2a5550-c1b8-4fb4-9025-e767c025dac3">
 </p>
 
-### Engagements and Completion Rates by Video Duration
+### Engagements and Completion Rates by Video Durations
 
-- Longer videos tend to generate higher engagement, with the highest median seen in videos over 60 seconds (479), followed by those 45–60 seconds long (417). In contrast, very short videos (0–15 seconds) show the lowest median engagement, indicating that overly brief content may offer less value or appeal to the audience.
+- Videos longer than 15 seconds generally drive higher engagement, with medians ranging from 315 to 479, while videos shorter than 15 seconds record the lowest median engagement (148). This indicates that longer formats can generate roughly two to three times more interaction, suggesting overly brief content may offer less value or appeal to the audience.
 - The highest average completion rate is for videos over 60 seconds (44.66%), while the other durations fall within 37.43%–38.96%, indicating that videos of 60 seconds or longer tend to deliver a 5–7% higher retention rate.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/2d29304c-a61f-4f35-995c-f508046f37d9">
 </p>
 
-### Engagements by Posting Time
+### Engagements by Posting Times
 
 - The heatmap of median engagement across posting times suggests no consistent pattern. While certain time slots (e.g., 4 AM Sunday and 3 AM Tuesday) show higher median engagement, posting time does not appear to be a dominant driver of engagement.
 
