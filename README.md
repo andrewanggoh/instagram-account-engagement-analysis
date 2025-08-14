@@ -96,7 +96,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - The heatmap of median engagement across posting times suggests no consistent pattern. While certain time slots (e.g., 4 AM Sunday and 3 AM Tuesday) show higher median engagement, posting time does not appear to be a dominant driver of engagement.
 
 <p align="center">
-  <img width="601" height="384" src="https://github.com/user-attachments/assets/24088f4d-ed83-413b-9324-58bed5b7c2ca">
+  <img width="599" height="387" src="https://github.com/user-attachments/assets/72dbfd5c-4e98-4285-8dd2-bb0c5058ddad">
 </p>
 
 ### Engagements by Collaborations
