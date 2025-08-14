@@ -13,7 +13,7 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Engagements by Post Types](#engagements-by-post-types)
    - [Engagements and Completion Rates by Video Durations](#engagements-and-completion-rates-by-video-durations)
    - [Engagements by Posting Times](#engagements-by-posting-times)
-   - [Engagements by Influencer Collaborations](#engagements-by-influencer-collaborations)
+   - [Engagements by Collaborations](#engagements-by-collaborations)
 - [Recommendations](#recommendations)
 - [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Caveats and Assumptions](#caveats-and-assumptions)
@@ -61,8 +61,8 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 - Between Dec 2021 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
 - Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.-
-- The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns, with Elziwai Elziwai involved in ~575K out of the total ~607K engagement.
-- Engagement in 2024 saw multiple peaks (200K–260K), suggesting event-driven or seasonal trends rather than sustained growth, with most activity from June to December related to Byon, contributing 392K out of the total ~1,108K engagement.
+- The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns.
+- Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section.
 
 <p align="center">
   <img width="913" height="687" src="https://github.com/user-attachments/assets/80d6ca31-37f5-4c51-9376-0db4991abb07">
@@ -93,9 +93,11 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 - The heatmap of median engagement across posting times suggests no consistent pattern. While certain time slots (e.g., 4 AM Sunday and 3 AM Tuesday) show higher median engagement, posting time does not appear to be a dominant driver of engagement.
 
-### Engagements by Influencer Collaborations
+### Engagements by Collaborations
 
 - Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Aug 2023 was largely the result of content collaborations with influencers.
+- Elziwai is involved in ~575K out of the total ~607K engagement.
+- Most activity from June to December related to Byon, contributing ~392K out of the total ~1,108K engagement.
 - Posts featuring influencers have a much higher median engagement count (518.5) compared to posts without influencers (162.5), representing around a 3x increase.
 - elziwai, celloszxz, byoncombat, and randpunk are the top influencers contributing the highest total engagement, with each generating over 100K.
 
@@ -118,7 +120,7 @@ Note:
 
 Note:
 
-1. Contain a note about the data cleaning process that you did including any assumptions you had to make about the data.
+1. Contain a note about the data cleaning process that you did, including any assumptions you had to make about the data.
 
 ## Technical Details
 
