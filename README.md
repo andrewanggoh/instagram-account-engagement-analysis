@@ -106,7 +106,8 @@ The analysis is based on public Instagram content data from the AO Snack account
 ### Optimizing Content Format
 
 - **Prioritize Video Content**: Focus on producing video posts, as they consistently generate higher engagement than photos.
-- **Optimize Video Length**: Create videos longer than 15 seconds, since these tends to receive 2–3× more engagement than short clips. Maintain high content quality and storytelling value since length alone does not guarantee performance.
+- **Optimize Video Length**: Create videos longer than 15 seconds, since these tend to receive 2–3× more engagement than short clips. Maintain high content quality and storytelling value since length alone does not guarantee performance.
+- **Content Duration Testing (A/B Testing)**: Post and compare videos with durations especially above 15 seconds (e.g., 15-30s, 30-45s) to identify the optimal balance between engagement, viewer retention, and cost efficiency.
 - **Refine Drivers Beyond Timing**: Since posting time is not a strong engagement factor, focus future optimizations on content type, duration, audience targeting, and creative execution.
 
 ### Maintaining & Expanding Collaborations
