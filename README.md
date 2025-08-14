@@ -76,8 +76,10 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Based on Q1 to Q3, clips (152-1022) show a broader spread of engagement compared to photos (67-247), meaning the middle 50% of clips have much higher engagement. This suggests clips are more likely to drive higher engagement, though variability is also greater.
 - Statistical analysis confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
 
+<img width="700" height="140" alt="image" src="https://github.com/user-attachments/assets/9c1dab23-d803-445c-99c3-dace170cba3e" />
+
 <p align="center">
-  <img width="913" height="687" src="https://github.com/user-attachments/assets/af2a5550-c1b8-4fb4-9025-e767c025dac3">
+  <img width="889" height="458" src="https://github.com/user-attachments/assets/d225062c-266c-4e23-8941-aac388c1c93d">
 </p>
 
 ### Engagements and Completion Rates by Video Durations
