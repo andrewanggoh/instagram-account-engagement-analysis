@@ -53,9 +53,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - All 10 high-engagement posts involved collaborations – either with influencers or complementary brands aligned with the brand image (e.g., sporty influencers, hampers brand, or sports events where our product adds value).
 - Wilson Nate’s appearance in five of the top posts suggests he is a key content creator contributing significantly to engagement.
 
-<p align="center">
-  <img width="830" height="350" src="https://github.com/user-attachments/assets/cb98b6b3-f73f-4c37-8082-7e165bc8ec02">
-</p>
+<img width="830" height="350" src="https://github.com/user-attachments/assets/cb98b6b3-f73f-4c37-8082-7e165bc8ec02">
 
 ### Engagement Trends and Growth Rates
 
@@ -64,8 +62,10 @@ The analysis is based on public Instagram content data from the AO Snack account
 - The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns.
 - Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
 
+<img width="445" height="170" alt="image" src="https://github.com/user-attachments/assets/94f798c3-949a-4487-b60b-f95d64fc79e4" />
+
 <p align="center">
-  <img width="750" height="650" src="https://github.com/user-attachments/assets/781e0775-aec6-4d45-96d8-50467009d79c">
+  <img width="730" height="550" src="https://github.com/user-attachments/assets/c5825df4-109e-4596-abb5-a3a53de0ca86">
 </p>
 
 ### Engagements by Post Types
