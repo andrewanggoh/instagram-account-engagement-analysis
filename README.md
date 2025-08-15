@@ -60,7 +60,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 - Between Jan 2022 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
 - Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.
 - The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns.
-- Engagement in 2024 saw multiple peaks (200K–260K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
+- Engagement in 2024 saw multiple peaks (74K–265K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
 
 <img width="550" height="170" alt="image" src="https://github.com/user-attachments/assets/2751d5f7-e52b-45a3-877b-588e96a9befa" />
 
@@ -71,10 +71,10 @@ The analysis is based on public Instagram content data from the AO Snack account
 ### Engagements by Post Types
 
 - Overall engagement trends are largely driven by video-type posts. The spikes that appear are dominantly influenced by engagement from video-type posts.
-- There are several viral posts with significantly higher engagement in clips compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that clips have a higher potential for viral reach.
-- Clips tend to generate higher engagement than photos, with a median of 361 compared to 129. Half of all clips achieve engagement above 361, while half of the photos fall below 129.
-- Based on Q1 to Q3, clips (152-1022) show a broader spread of engagement compared to photos (67-247), meaning the middle 50% of clips have much higher engagement. This suggests clips are more likely to drive higher engagement, though variability is also greater.
-- Statistical analysis confirms that the difference in engagement between clips and photos is significant, reinforcing that clips are generally more effective at driving interactions.
+- There are several viral posts with significantly higher engagement in videos compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that videos have a higher potential for viral reach.
+- Videos tend to generate higher engagement than photos, with a median of 361 compared to 129.5. Half of all videos achieve engagement above 361, while half of the photos fall below 129.5.
+- Based on Q1 to Q3, videos (152-1022) show a broader spread of engagement compared to photos (67-253.8), meaning the middle 50% of videos have much higher engagement. This suggests videos are more likely to drive higher engagement, though variability is also greater.
+- Statistical analysis confirms that the difference in engagement between videos and photos is significant, reinforcing that videos are generally more effective at driving interactions.
 
 <img width="800" height="146" alt="image" src="https://github.com/user-attachments/assets/13581673-7f6a-4346-a7ed-b2a77750cea0" />
 
@@ -101,9 +101,9 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ### Engagements by Collaborations
 
-- Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Jul 2023 was largely the result of content collaborations with influencers.
+- Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Jul 2023 was largely the result of content collaborations.
 - During the peak in Jun-Jul 2023, Wilson Nate is involved in ~575K out of the total ~607K engagement.
-- Most engagement from Jun-Dec 2024 related to Sportyanz Event, contributing ~392K out of the total ~1,108K engagement.
+- Most engagement from Jun-Dec 2024 related to Sportyanz Event, contributing ~392K out of the total ~1,108K engagement. This sustained performance was likely supported by a content strategy that extended beyond the event period, encompassing pre-event build-up and post-event follow-up content.
 - Posts featuring influencers have a much higher median engagement count (518.5) compared to posts without influencers (162.5), representing around a 3x increase.
 - Wilson Nate, Aubrey Evans, Sportyanz Event, Jacob Miller, and Robert Carter are the top collaborators contributing the highest total engagement, with each generating over 77K.
 
