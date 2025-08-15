@@ -98,7 +98,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
   <img width="599" height="387" src="https://github.com/user-attachments/assets/72dbfd5c-4e98-4285-8dd2-bb0c5058ddad">
 </p>
 
-### Engagements by Collaborations
+### Impact of Collaborations on Engagements
 
 - Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Jul 2023 was largely the result of content collaborations.
 - During the peak in Jun-Jul 2023, Wilson Nate is involved in ~575K out of the total ~607K engagement.
