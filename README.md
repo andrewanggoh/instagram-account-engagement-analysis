@@ -109,7 +109,9 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 <img width="850" height="134" alt="image" src="https://github.com/user-attachments/assets/e99d33b5-be69-426d-b33f-b4932714df73" />
 
-
+<p align="center">
+  <img width="888" height="475" alt="E -Collab" src="https://github.com/user-attachments/assets/b088252f-3b32-4b47-9700-bf1ee62f405a" />
+</p>
 
 ## Recommendations
 
