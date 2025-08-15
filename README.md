@@ -70,7 +70,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 ### Engagements by Post Types
 
 - Overall engagement trends are largely driven by video-type posts. The spikes that appear are dominantly influenced by engagement from video-type posts.
-- There are several viral posts with significantly higher engagement in videos compared to photos, and the maximum engagement for clips (222,262) far exceeds that of photos (66,628), indicating that videos have a higher potential for viral reach.
+- There are several viral posts with significantly higher engagement in videos compared to photos, and the maximum engagement for videos (222,262) far exceeds that of photos (66,628), indicating that videos have a higher potential for viral reach.
 - Videos tend to generate higher engagement than photos, with a median of 361 compared to 129.5. Half of all videos achieve engagement above 361, while half of the photos fall below 129.5.
 - Based on Q1 to Q3, videos (152-1022) show a broader spread of engagement compared to photos (67-253.8), meaning the middle 50% of videos have much higher engagement. This suggests videos are more likely to drive higher engagement, though variability is also greater.
 - Statistical analysis confirms that the difference in engagement between videos and photos is significant, reinforcing that videos are generally more effective at driving interactions.
@@ -117,13 +117,13 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 ### Optimizing Content Format
 
 - **Prioritize Video Content**: Focus on producing video posts, as they consistently generate higher engagement than photos.
-- **Optimize Video Length**: Create videos longer than 15 seconds, since these tend to receive 2–3× more engagement than short clips. Maintain high content quality and storytelling value since length alone does not guarantee performance.
+- **Optimize Video Length**: Create videos longer than 15 seconds, since these tend to receive 2–3× more engagement than short videos. Maintain high content quality and storytelling value since length alone does not guarantee performance.
 - **Content Duration Testing (A/B Testing)**: Post and compare videos with durations especially above 15 seconds (e.g., 15-30s, 30-45s) to identify the optimal balance between engagement, viewer retention, and cost efficiency.
 - **Refine Drivers Beyond Timing**: Since posting time is not a strong engagement factor, focus future optimizations on content type, duration, audience targeting, and creative execution.
 
 ### Maintaining & Expanding Collaborations
 
-- **Leverage Proven Influencers**: Consider allocating budget to continue collaborating with high-performing influencers such as Elziwai, Byon, and Guntur, especially for campaigns during high-traffic periods.
+- **Leverage Proven Collaborators**: Consider allocating budget to continue collaborating with high-performing collaborators such as Wilson Nate, Aubrey Evans, and Sportyanz Event.
 - **Sustain Engagement via Long-Term Partnerships**: Build ongoing collaboration programs instead of one-off campaigns to prevent post-peak engagement drops.
 - **Co-Branding Opportunities**: Consider partnering with complementary brands (e.g., sports events, hampers) that align with the brand image to expand audience reach.
 
