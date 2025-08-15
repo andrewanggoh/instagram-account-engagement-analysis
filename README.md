@@ -59,7 +59,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 - Between Jan 2022 and Mar 2025, monthly engagement ranged from ~1.2K to ~368.6K.
 - Major spikes occurred in Jun–Jul 2023, Feb 2024, May–Jun 2024, Dec 2024, and another rise starting in Mar 2025, with most spikes being followed by sharp declines.
 - The highest peak in June–July 2023 exceeded 350K, likely driven by viral content or major campaigns.
-- Engagement in 2024 saw multiple peaks (74K–265K), suggesting an event-driven or seasonal trend, which will be discussed further in the *[Engagements by Collaborations](#engagements-by-collaborations)* section below.
+- Engagement in 2024 saw multiple peaks (74K–265K), suggesting an event-driven or seasonal trend, which will be discussed further in the [Impact of Collaborations on Engagements](#impact-of-collaborations-on-engagements) section below.
 
 <img width="550" height="170" alt="image" src="https://github.com/user-attachments/assets/2751d5f7-e52b-45a3-877b-588e96a9befa" />
 
