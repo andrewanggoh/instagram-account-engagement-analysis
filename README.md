@@ -130,7 +130,7 @@ The analysis is based on public Instagram content data from the AO Snack account
 
 ### Sustaining Engagement Momentum
 
-- **Plan for Post-Peak Content**: Design and post follow-up content series after major engagement spikes (e.g., behind-the-scenes, user-generated content, or recap videos) to sustain audience momentum and reduce steep declines.
+- **Plan for Post-Peak Content**: Design and post follow-up content series after major engagement spikes (e.g., behind-the-scenes or recap videos) to sustain audience momentum and reduce steep declines.
 - **Optimize Audience Retargeting**: Retarget viewers and engagers from peak periods with tailored content to extend their activity cycle.
 
 ## Clarifying and Key Questions for Further Analysis
