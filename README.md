@@ -15,8 +15,8 @@ Compiled by Andrew Oksner Anggoh | Tools: R and Tableau
    - [Engagements by Posting Times](#engagements-by-posting-times)
    - [Impact of Collaborations on Engagements](#impact-of-collaborations-on-engagements)
 - [Recommendations](#recommendations)
-- [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Caveats and Assumptions](#caveats-and-assumptions)
+- [Clarifying and Key Questions for Further Analysis](#clarifying-and-key-questions-for-further-analysis)
 - [Technical Details](#technical-details)
 - [Contacts](#contacts)
 
@@ -103,7 +103,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 - Engagement patterns frequently align with influencer-driven posts. Notably, the spike observed in Jun–Jul 2023 was largely the result of content collaborations.
 - During the peak in Jun-Jul 2023, Wilson Nate is involved in ~575K out of the total ~607K engagement.
 - Most engagement from Jun-Dec 2024 related to Sportyanz Event, contributing ~392K out of the total ~1,108K engagement. This sustained performance was likely supported by a content strategy that extended beyond the event period, encompassing pre-event build-up and post-event follow-up content.
-- Posts featuring influencers have a much higher median engagement count (518.5) compared to posts without influencers (162.5), representing around a 3x increase.
+- Posts featuring collaborations have a much higher median engagement count (518.5) compared to posts without collaborations (162.5), representing around a 3x increase.
 - Wilson Nate, Aubrey Evans, Sportyanz Event, Jacob Miller, and Robert Carter are the top collaborators contributing the highest total engagement, with each generating over 77K.
 
 <img width="850" height="134" alt="image" src="https://github.com/user-attachments/assets/e99d33b5-be69-426d-b33f-b4932714df73" />
@@ -132,15 +132,19 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 - **Plan for Post-Peak Content**: Design and post follow-up content series after major engagement spikes (e.g., behind-the-scenes or recap videos) to sustain audience momentum and reduce steep declines.
 - **Optimize Audience Retargeting**: Retarget viewers and engagers from peak periods with tailored content to extend their activity cycle.
 
-## Clarifying and Key Questions for Further Analysis
-
-- Is there
-
 ## Caveats and Assumptions
 
-Note:
+- The data presented is derived from public Instagram content. All account names and usernames displayed have been replaced with pseudonyms to protect the privacy of the original account holders. This anonymization prevents identity tracing, misuse of data, or harm to third parties. There is no association between these aliases and real Instagram accounts.
+- All qualitative evaluations of Instagram posts in this study were genuinely conducted because the original (non-anonymized) data from Apify contained post URLs. These URLs have since been removed to ensure complete data anonymization.
+- The data analyzed reflects the records captured at the time of data scraping.
+- `videoPlayCount` refers to the number of people who started playing a video, while `videoViewCount` refers to the number of people who watched the video in its entirety.
+- The analysis does not account for posts that were promoted/advertised, as no data related to paid promotion was available.
 
-1. Contain a note about the data cleaning process that you did, including any assumptions you had to make about the data.
+## Key Questions for Further Analysis
+
+- Is there- Is there historical data on likes, comments, and followers available at the time of posting to calculate engagement rates? This would be useful for measuring the relevance and quality of the content.
+- Is there data on video categories (e.g., storytelling, event-related, product-focused, etc.)? If not, could this information be obtained from the marketing or social media team? Having such categorization would allow deeper analysis of video characteristics that drive higher engagement.
+- Is there sales, revenue, or cost data associated with Instagram posts (e.g., advertising spend, CPC, CTR, ROAS, etc.)? Integrating financial metrics would enable a more comprehensive evaluation of content effectiveness and optimization of content strategy.
 
 ## Technical Details
 
