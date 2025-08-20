@@ -151,7 +151,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 The technical analysis utilized:
 
 - **R** for data cleaning, preparation, and exploratory data analysis. Documentation is available [here](https://rpubs.com/andrewanggoh/InstagramAccountEngagementAnalysis).
-- **Tableau** for data visualization and an interactive dashboard, which is accessible [here]().
+- **Tableau** for data visualization and an interactive dashboard, which is accessible [here](https://public.tableau.com/app/profile/andrew.anggoh/viz/InstagramAccountEngagementAnalysis/Dashboard?publish=yes).
 
 ## Contacts
 
