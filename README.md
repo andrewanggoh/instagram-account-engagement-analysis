@@ -144,7 +144,7 @@ Between Jan 2022 and Mar 2025, monthly engagement ranged from 1.2K to 368.6K, wi
 
 - Is there historical data on likes, comments, and followers available at the time of posting to calculate engagement rates? This would be useful for measuring the relevance and quality of the content.
 - Is there data on video categories (e.g., storytelling, event-related, product-focused, etc.)? If not, could this information be obtained from the marketing or social media team? Having such categorization would allow deeper analysis of video characteristics that drive higher engagement.
-- Is there sales, revenue, or cost data associated with Instagram posts (e.g., advertising spend, CPC, CTR, ROAS, etc.)? Integrating financial metrics would enable a more comprehensive evaluation of content effectiveness and optimization of content strategy.
+- Is there sales, revenue, or cost data associated with Instagram posts (e.g., advertising spend, CPC, CTR, etc.)? Integrating financial metrics would enable a more comprehensive evaluation of content effectiveness and optimization of content strategy.
 
 ## Technical Details
 
